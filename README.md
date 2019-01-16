@@ -60,5 +60,5 @@ a = function a() {
 return true;
 };
 
-Answer [codepen.io](https://codepen.io/Alex_bu/pen/MZxaGY).
+**Answer [codepen.io](https://codepen.io/Alex_bu/pen/MZxaGY)**
 
